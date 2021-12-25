@@ -18,7 +18,7 @@ The purpose of this project is to analyze bikeshare data from CitiBike in New Yo
 ### Create Visualizations for the Trip Analysis
 1. The total Number of Trips: There was a total of ```2,344,224``` trips for the month of August. 
 2. Customer Types: The pie chart show that there are ```1,900,359``` users subscribe to the company while ```443,865``` users are customers.
-3. The Peak of August: The bar chart show that here is a peak number of users who rent their bike for ```5-6``` hour trips.
+3. The Peak of August: The top riding hours during August in New York City  ``` 5:00 p.m to 7:00 p.m.``` during the day in August.
 4. The Checkout Times for Users.The line graph of number of trips by duration show that most trips taken on CitiBike bikes are under an hour in length. More specifically, most trips are under a half-hour in   length, with a swift drop off in number of rides over an hour in length.
 5. The Checkout Times by Gender: The line graph for breakdown of number of rides by duration, separated by gender, shows that the male customers have  many more rides than females.
 6. The Trips by Weekday for Each Hour: The results in  the heatmap shows that the peak riding hours during the  weekday between ```(6-10AM and 5-8PM)```, and during the weekend usage between ```(5am to 10pm)```. 
