@@ -1,4 +1,4 @@
-# Bike-sharing 
+# Bikeshare
 An analysis of NYC CitiBike Data, using:
 -	Tableau for Data visualization
 -	Pandas and Jupyter Notebook for  Data Cleaning.
@@ -25,6 +25,6 @@ The purpose of this project is to analyze bikeshare data from CitiBike in New Yo
 7. The Trips by Gender (Weekday per Hour): Results in the heatmap indicates that Males are High users during the peak Hours. 
 8. The User Trips by Gender by Weekday:  The heatmap indicates that male subscribers are highest users.
 ## Summary: 
-
+The bikeshare analysis for New York city data, provides a useful insights for all the project   questions regarding proof of concept, where we identifed the type and gender of the customers, the peak demand hours for service during the weekday and the weekend, and the locations   of the starting and ending of trips.   New York City is a large and densely populated city, and bikeshare service is popular, especially in places where parking is difficult. So, to clarify the vision regarding the investment in bikeshare services in the city of Des Moines, Iowa, it is necessary to provide information about the city in terms of the number of residents and their distribution within the city, the distribution of working traffic locations, and the age and gender structure of the population. It is necessary to develop visualizations to answer questions that establish the relationship between traffic’s time and locations, and the number of trips, categorized by gender and time during of the week.
 
 
