@@ -14,7 +14,13 @@ The purpose of this project is to analyze bikeshare data from CitiBike in New Yo
 ## Analysis and Results:
 ### Data Cleaning: 
 1.	Using Python and Pandas functions, we converted the "tripduration" column from an integer to a datetime datatype to get the time in hours, minutes, and seconds. After we converted the "tripduration" column to a datetime dataytpe, we exported the DataFrame as a **CSV** file named ```201908-citibike-new-tripdata.csv```.   
+
+![image](https://user-images.githubusercontent.com/62036983/147429124-300c879c-16a0-4e79-98e1-1fd4ee424e86.png)
+
 2.	Using ```Calculated Field``` to change the data type for the Gender Columns from number ```Int64``` to ```String``` and change the data labels using ```IF then statement```. 
+
+![13](https://user-images.githubusercontent.com/62036983/147429370-18a9f92e-1cec-4c03-bb64-6cc7251c476c.png)
+
 ### Create Visualizations for the Trips Analysis
 1. The total Number of Trips: There was a total of ```2,344,224``` trips for the month of August.
 
